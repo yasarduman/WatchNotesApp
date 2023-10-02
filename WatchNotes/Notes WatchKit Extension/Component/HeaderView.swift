@@ -1,8 +1,7 @@
 //
-//  Created by Robert Petras
-//  Credo Academy ♥ Design and Code
-//  https://credo.academy 
+//  Created by Yaşar Duman on 27.09.2023.
 //
+
 
 import SwiftUI
 

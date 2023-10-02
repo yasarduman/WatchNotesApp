@@ -28,7 +28,7 @@ struct CreditsView: View {
       HeaderView(title: "Credits")
       
       // CONTENT
-      Text("Robert Petras")
+      Text("Yaşar Duman")
         .foregroundColor(.primary)
         .fontWeight(.bold)
       
