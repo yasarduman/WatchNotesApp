@@ -1,7 +1,6 @@
 //
-//  Created by Yaşar Duman on 27.09.2023.
+//  Created by Yaşar Duman on 22.09.2023.
 //
-
 
 import ClockKit
 
